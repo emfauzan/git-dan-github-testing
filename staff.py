@@ -6,3 +6,4 @@ nama_staff = {
     "aji":12312
 }
 print(nama_staff)
+print("End Program")

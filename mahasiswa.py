@@ -7,3 +7,4 @@ nama = {
     "Alex":180150200
 }
 print(nama)
+print("End Program")
